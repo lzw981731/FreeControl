@@ -252,16 +252,5 @@ Android 11 及更高版本支持使用 Android 调试桥 (adb) 从工作站以�
 - 对于 `Android 11` ，您需要确保在启动scrcpy时设备屏幕已解锁。假的弹出窗口将短暂出现，使系统认为shell应用程序处于前台。没有这个，音频捕获将失败。
 - 对于 `Android 10` 或更早版本，无法捕获音频并自动禁用。
 
-## 捐赠
-如果您觉得这个项目对您有帮助，欢迎请作者喝杯咖啡。☕
-
-<details>
-<summary>展开</summary>
-
-![](https://raw.githubusercontent.com/pdone/static/master/img/donate/zfb_wx.jpg)
-
-爱发电❤ https://afdian.net/a/pdone
-</details>
-
 ## Stargazers Over Time
 [![Stargazers over time](https://starchart.cc/lzw981731/FreeControl.svg?variant=adaptive)](https://starchart.cc/lzw981731/FreeControl)

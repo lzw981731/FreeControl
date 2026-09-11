@@ -225,11 +225,5 @@ Audio forwarding is supported on devices using 'Android 11 'or higher and is ena
 - For `Android 11` , you need to make sure that the device screen is unlocked when starting scrcpy. The fake pop-up window will appear briefly, making the system think that the shell application is in the foreground. Without this, audio capture will fail.
 - For `Android 10` or earlier, audio cannot be captured and is automatically disabled.
 
-## Donate
-
-If you think this project is helpful, please invite the author to have a cup of coffee.☕
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/alexpdone)
-
 ## Stargazers Over Time
 [![Stargazers over time](https://starchart.cc/lzw981731/FreeControl.svg?variant=adaptive)](https://starchart.cc/lzw981731/FreeControl)
