@@ -21,10 +21,10 @@ jobs:
       run: nuget restore FreeControl.sln
 
     - name: Build
-      run: msbuild FreeControl.sln /p:Configuration=Release /p:Platform=x86
+      run: msbuild FreeControl.sln /p:Configuration=Release /p:Platform="Any CPU"
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
         name: FreeControl-IPv6
-        path: FreeControl/bin/Release/FreeControl.exe
+        path: FreeControl/bin/Release/
