@@ -33,6 +33,18 @@ https://github.com/pdone/FreeControl/releases/latest/download/FreeControl.exe
 
 https://cdn.awaw.cc/gh/pdone/FreeControl/releases/latest/download/FreeControl.exe
 
+## IPv6 支持
+
+本 Fork 版本新增了 IPv6 地址支持，适用于仅有 IPv6 公网地址的 Android 设备（如车载车机等）。
+
+- 无线连接时自动检测 IPv6 地址，用方括号 `[ipv6]:port` 格式传递给 ADB 和 scrcpy
+- IPv4 地址保持原有行为不变
+- 使用方式：在 FreeControl 设置中直接填写 IPv6 地址（如 `240e:438:xxxx:xxxx::1`）或 IPv6 域名（如 `byd.car.example.com`），端口填 `5555`
+
+### 下载
+
+[GitHub Release (IPv6)](https://github.com/lzw981731/FreeControl/releases/latest)
+
 ## 代码存储库
 
 [![](https://img.shields.io/badge/github-Free_Control-blue?style=for-the-badge&logo=github)](https://github.com/pdone/FreeControl)
