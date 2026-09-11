@@ -1,14 +1,14 @@
 # FreeControl
 
-[![](https://img.shields.io/github/actions/workflow/status/pdone/FreeControl/build-and-release.yml?style=for-the-badge)](https://github.com/pdone/FreeControl/actions/workflows/build-and-release.yml)
-[![](https://img.shields.io/github/release/pdone/FreeControl?style=for-the-badge)](https://github.com/pdone/FreeControl/releases/latest)
-[![](https://img.shields.io/github/downloads/pdone/FreeControl/total?style=for-the-badge)](https://github.com/pdone/FreeControl/releases)
-[![](https://img.shields.io/github/stars/pdone/FreeControl?style=for-the-badge)](https://github.com/pdone/FreeControl)
-[![](https://img.shields.io/github/issues/pdone/FreeControl?style=for-the-badge)](https://github.com/pdone/FreeControl/issues)
+[![](https://img.shields.io/github/actions/workflow/status/lzw981731/FreeControl/build-and-release.yml?style=for-the-badge)](https://github.com/lzw981731/FreeControl/actions/workflows/build-and-release.yml)
+[![](https://img.shields.io/github/release/lzw981731/FreeControl?style=for-the-badge)](https://github.com/lzw981731/FreeControl/releases/latest)
+[![](https://img.shields.io/github/downloads/lzw981731/FreeControl/total?style=for-the-badge)](https://github.com/lzw981731/FreeControl/releases)
+[![](https://img.shields.io/github/stars/lzw981731/FreeControl?style=for-the-badge)](https://github.com/lzw981731/FreeControl)
+[![](https://img.shields.io/github/issues/lzw981731/FreeControl?style=for-the-badge)](https://github.com/lzw981731/FreeControl/issues)
 
 ## 介绍
 
-[ 中文 | [English](https://github.com/pdone/FreeControl/blob/master/README.en.md) ]
+[ 中文 | [English](https://github.com/lzw981731/FreeControl/blob/master/README.en.md) ]
 
 基于开源项目[**scrcpy**](https://github.com/Genymobile/scrcpy)，提供简洁的交互界面。
 
@@ -27,11 +27,11 @@
 ## 下载
 ### GitHub Release
 
-https://github.com/pdone/FreeControl/releases/latest/download/FreeControl.exe
+https://github.com/lzw981731/FreeControl/releases/latest/download/FreeControl.exe
 
 ### My Proxy
 
-https://cdn.awaw.cc/gh/pdone/FreeControl/releases/latest/download/FreeControl.exe
+https://cdn.awaw.cc/gh/lzw981731/FreeControl/releases/latest/download/FreeControl.exe
 
 ## IPv6 支持
 
@@ -47,11 +47,11 @@ https://cdn.awaw.cc/gh/pdone/FreeControl/releases/latest/download/FreeControl.ex
 
 ## 代码存储库
 
-[![](https://img.shields.io/badge/github-Free_Control-blue?style=for-the-badge&logo=github)](https://github.com/pdone/FreeControl)
+[![](https://img.shields.io/badge/github-Free_Control-blue?style=for-the-badge&logo=github)](https://github.com/lzw981731/FreeControl)
 
 ## 更新记录
 
-[![](https://img.shields.io/badge/updete-record-fedcba?style=for-the-badge)](https://github.com/pdone/FreeControl/blob/master/FreeControl/Update.md)
+[![](https://img.shields.io/badge/updete-record-fedcba?style=for-the-badge)](https://github.com/lzw981731/FreeControl/blob/master/FreeControl/Update.md)
 
 ## 常见问题
 
@@ -264,4 +264,4 @@ Android 11 及更高版本支持使用 Android 调试桥 (adb) 从工作站以�
 </details>
 
 ## Stargazers Over Time
-[![Stargazers over time](https://starchart.cc/pdone/FreeControl.svg?variant=adaptive)](https://starchart.cc/pdone/FreeControl)
+[![Stargazers over time](https://starchart.cc/lzw981731/FreeControl.svg?variant=adaptive)](https://starchart.cc/lzw981731/FreeControl)
